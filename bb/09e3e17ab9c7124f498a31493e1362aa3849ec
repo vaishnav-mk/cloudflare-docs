@@ -1,0 +1,19 @@
+src/content/docs/workflows/build/workers-api.mdx
+  s_98a259550c0665::t_208707c745c289 485-488,532-543
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bb09e3e17ab9c7124f498a31493e1362aa3849ec",
+  "prompts": {},
+  "sessions": {
+    "s_98a259550c0665": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f671f-e536-7ecc-8fad-e740d54fa0bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "vaish <vaishnav@cloudflare.com>"
+    }
+  }
+}
