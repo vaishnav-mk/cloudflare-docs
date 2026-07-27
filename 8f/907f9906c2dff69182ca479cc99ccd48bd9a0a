@@ -1,0 +1,31 @@
+src/content/changelog/workflows/2026-07-17-instance-delete.mdx
+  s_b554ffcd7ba695::t_2d8aeeecc04d1a 2-3,10,12-19,31,33,36,38,41
+src/content/docs/workflows/build/trigger-workflows.mdx
+  s_b554ffcd7ba695::t_a55205ea45ed11 253-266,282-284,287,290,293
+src/content/docs/workflows/build/workers-api.mdx
+  s_383f5c3ec55457::t_3b8e2a91c7852b 543,545,644-647,762-776
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8f907f9906c2dff69182ca479cc99ccd48bd9a0a",
+  "prompts": {},
+  "sessions": {
+    "s_383f5c3ec55457": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f7f64-a8f9-770b-998d-af2bac98f1f4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "vaish <vaishnav@cloudflare.com>"
+    },
+    "s_b554ffcd7ba695": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f74df-f5c8-71b4-88d3-30b0c9e17ab0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "vaish <vaishnav@cloudflare.com>"
+    }
+  }
+}
