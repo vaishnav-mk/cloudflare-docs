@@ -1,0 +1,21 @@
+src/content/docs/workflows/build/trigger-workflows.mdx
+  s_e177fc911c99e4::t_6a37122ed3bd31 286-290,295
+src/content/changelog/workflows/2026-07-17-instance-delete.mdx
+  s_e177fc911c99e4::t_2bf2a604cb2a8b 35-39,44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b7efabee56b23b50d867357cc6b501e29da75aba",
+  "prompts": {},
+  "sessions": {
+    "s_e177fc911c99e4": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f8429-7e8e-7d48-9036-d67f6f6ebf70",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "vaish <vaishnav@cloudflare.com>"
+    }
+  }
+}
