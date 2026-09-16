@@ -1,0 +1,19 @@
+src/content/changelog/workflows/2026-09-17-instance-delete.mdx
+  s_900a7edfd4675a::t_44f75127335010 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d6fb417f05dad9d64cb18ef6ce12630244eb69e1",
+  "prompts": {},
+  "sessions": {
+    "s_900a7edfd4675a": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fb29e-df36-7338-90f5-73df77c82d1d",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "vaish <vaishnav@cloudflare.com>"
+    }
+  }
+}
